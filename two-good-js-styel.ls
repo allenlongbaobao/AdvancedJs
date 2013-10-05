@@ -19,9 +19,9 @@ getAttr = (el, attrName)->
 foo = 1
 bar = 2
 
-#temp = foo
-#foo = bar
-#bar = temp
+temp = foo
+foo = bar
+bar = temp
 
 #奇妙的写法
 
